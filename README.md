@@ -70,6 +70,4 @@ Google Cloud Run, Google Cloud Storage, Cloud Build
 Future Extensions
 Daily,weekly & monthly dashboards in the frontend instead of csv
 Wearable integration (Fitbit, Apple Health etc)
-
-
 Mobile view + progressive web app
