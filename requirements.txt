@@ -1,0 +1,9 @@
+flask
+gunicorn
+pandas
+requests
+python-dotenv
+google-cloud-firestore
+google-cloud-storage
+google-cloud-secret-manager
+google-genai
